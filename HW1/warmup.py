@@ -91,4 +91,4 @@ def multiple_choice():
 	    - return 2 if: `fast_manhattan` has higher space complexity and lower time complexity.
 	    - return 3 if: Both are about the same in space and time complexity.
 	"""
-    return 2
+    return 1
